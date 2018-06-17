@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZZMainViewKit_Example' do
+  pod 'ZZMainViewKit', :path => '../'
+
+  target 'ZZMainViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
