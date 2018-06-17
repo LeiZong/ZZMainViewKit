@@ -1,0 +1,22 @@
+{
+  "name": "ZZMainViewKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZMainViewKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LeiZong/ZZMainViewKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeiZong": "leasingzong@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/LeiZong/ZZMainViewKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZMainViewKit/Classes/**/*"
+}
